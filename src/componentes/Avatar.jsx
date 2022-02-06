@@ -3,7 +3,7 @@ import './Avatar.css'
 
 function Avatar() {
 	return (
-		<img className='avatar' src="img/perfil.jpg" />
+		<img className='avatar' src="img/perfil.jpg" alt="Avatar"/>
 	)
 }
 
