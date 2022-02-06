@@ -18,14 +18,14 @@ function Cartao() {
 			<label>Username</label>
 			<input type="text" placeholder="How do you like people to call you?" />
 			<div className="termos-politica">
-				<label className='checkbox'>I have read and agree to the <a hre="https://github.com/Cesar959/sign-up-react" target="_blank">Terms of service</a> and <a hre="https://github.com/Cesar959/sign-up-react" target="_blank">Privacy policy</a> 
+				<label className='checkbox'>I have read and agree to the <a href="https://github.com/Cesar959/sign-up-react" target="_blank" rel="noreferrer">Terms of service</a> and <a href="https://github.com/Cesar959/sign-up-react" target="_blank" rel="noreferrer">Privacy policy</a> 
 					<input type="checkbox"/>
 					<span className='check'></span>				
 				</label>
 			</div>
 			<Botao />
 		</form>
-		<a href="https://github.com/Cesar959/sign-up-react" target="_blank">Already have an account</a>
+		<a href="https://github.com/Cesar959/sign-up-react" target="_blank" rel="noreferrer">Already have an account</a>
 	</div>
 	)
 }
