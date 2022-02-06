@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+<h1 align="center"> Sign Up React </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img src="DOC/resultado.png" alt="imagem-site" width="600" height="auto">
+</p>
 
-## Available Scripts
+## Descrição
 
-In the project directory, you can run:
+O projeto foi baseado no layout da (ildiesign)[https://www.behance.net/ildiesign] responsavel pelo site UIDesignDaily.com que contem varios projetos de UI Design gratuitos. No desenvolvimento da aplicação foi utilizado a biblioteca React que foi criada pela empresa Meta (antiga facebook) com o objetivo de criar interfaces de usuário em páginas web.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Instalação Local
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Para executar esse projeto você precisara do [Node](https://nodejs.org/en/).
 
-### `npm test`
+Por meio dele sera baixado todas as depedencias do projeto, depois de instalado execute os comandos abaixo na linha do terminal.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1) para baixa todas as dependencias do projeto
 
-### `npm run build`
+```bash  
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5) Execute o comando abaixo no terminal
+```bash 
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Status do Projeto
 
-### `npm run eject`
+**Concluido**: O projeto esta terminado, não havera futuras alterações de funcionalidade.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Construído com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* [React](https://pt-br.reactjs.org/) - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais. É utilizado nos sites da Netflix, Imgur, Feedly, Airbnb, SeatGeek, HelloSign, Walmart e outros. .
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Versão das Linguagens e Ferramentas
 
-## Learn More
+#### Geral
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* React: 17.0.2
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Autor
 
-### Code Splitting
+* **Cesar dos Santos de Almeida** - *responsável pela construção e desenvolvimento do projeto*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Licença
 
-### Analyzing the Bundle Size
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Links
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* [Layout](https://www.uidesigndaily.com/posts/figma-sign-up-authentication-day-1528) - Link do site UIDesignDaily.com 
+* [Demo](https://stoic-jang-a2a637.netlify.app/) - Link de demonstração
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Agradecimentos Especiais
 
-### Deployment
+* [Ildiko Gaspar](https://www.behance.net/ildiesign) - Autora e Criadora do site UIDesignDaily.com 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
