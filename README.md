@@ -6,7 +6,7 @@
 
 ## Descrição
 
-O projeto foi baseado no layout da (ildiesign)[https://www.behance.net/ildiesign] responsavel pelo site UIDesignDaily.com que contem varios projetos de UI Design gratuitos. No desenvolvimento da aplicação foi utilizado a biblioteca React que foi criada pela empresa Meta (antiga facebook) com o objetivo de criar interfaces de usuário em páginas web.
+O projeto foi baseado no layout da [ildiesign](https://www.behance.net/ildiesign) responsavel pelo site UIDesignDaily.com que contem varios projetos de UI Design gratuitos. No desenvolvimento da aplicação foi utilizado a biblioteca React que foi criada pela empresa Meta (antiga facebook) com o objetivo de criar interfaces de usuário em páginas web.
 
 
 ## Instalação Local
